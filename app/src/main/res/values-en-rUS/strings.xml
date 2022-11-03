@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Register</string>
+    <string name="version">Version 1.0</string>
+    <string name="lbModelo">Model</string>
+    <string name="lbMarca">Brand</string>
+    <string name="Agregar">Add</string>
+    <string name="Editar">Edit</string>
+    <string name="Eliminar">Delete</string>
+</resources>

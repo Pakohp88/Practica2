@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Car Register</string>
+    <string name="version">Versión 1.0</string>
+    <string name="autor" translatable="false">Francisco Hernández Pérez</string>
+    <string name="lbModelo">Modelo</string>
+    <string name="lbMarca">Marca</string>
+    <string name="lbColor" translatable="false">Color</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Editar">Editar</string>
+    <string name="Eliminar">Borrar</string>
+    <string-array name="marcas">
+        <item>BMW</item>
+        <item>NISSAN</item>
+        <item>PEUGEOT</item>
+        <item>TOYOTA</item>
+        <item>VOLKSWAGEN</item>
+    </string-array>
+</resources>
